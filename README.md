@@ -97,7 +97,7 @@ Web Browser
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Lucy W. Mwangi**
 
 - GitHub: [@lucy-sees](https://github.com/lucy-sees)
 - Twitter: [@_The_LoneWolf](https://twitter.com/_The_LoneWolf)
