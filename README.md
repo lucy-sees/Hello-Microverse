@@ -37,7 +37,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -49,15 +48,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[A header with a red text "Hello Microverse!"]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://lucy-sees.github.io/Hello-Microverse/)
 
@@ -92,7 +88,6 @@ To run the project, execute the following:
 2. Once you're in the directory, use the `open` command (on a Mac) or `start` command (on Windows) followed by the name of the HTML file to open it in the default web browser. 
 example; ```open index.html```   or ```start index.html```
 
-
 ### Deployment
 
 You can deploy this project using:
@@ -100,10 +95,8 @@ Web Browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author**
 
@@ -114,9 +107,9 @@ Web Browser
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
->Homepage
->About Me page
->Contact page
+- Homepage
+- About Me page
+- Contact page
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -137,8 +130,6 @@ I would like to thank [Microverse](https://github.com/microverseinc) for providi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 - **[Why  use this project?]**
 
   - [To get familair with HTML, CSS and Linters]
@@ -152,6 +143,6 @@ I would like to thank [Microverse](https://github.com/microverseinc) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lucy-sees/Hello-Microverse-project/blob/be925a8f4d2dd0c4ab5db310acefc7a024032745/LICENSE) licensed.
+This project is [MIT](https://github.com/lucy-sees/Hello-Microverse/blob/a54711529bce29d50fb056f0afd5e77de2099cf2/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
